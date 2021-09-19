@@ -1,6 +1,5 @@
 import datetime as date 
 
-datetime.
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         #loop through string
